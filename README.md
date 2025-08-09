@@ -45,7 +45,7 @@ See **Appendix Table 7** in the paper for a detailed runtime breakdown.
 
 You can download the datasets used in this project from the following sources:
 
-- **[NeyroGraph Dataset ](https://neurograph.readthedocs.io/en/latest/)**
+- **[NeuroGraph Dataset ](https://neurograph.readthedocs.io/en/latest/)**
 - **[Social Network Dataset ](https://chrsmrrs.github.io/datasets/docs/datasets/)**
 - **[Traffic Dataset ](https://torch-spatiotemporal.readthedocs.io/en/latest/modules/datasets_in_tsl.html)**
 
